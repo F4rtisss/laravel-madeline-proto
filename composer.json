@@ -21,12 +21,6 @@
         "illuminate/console": "^7.0|^8.0",
         "illuminate/database": "^7.0|^8.0"
     },
-    "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/f4rtisss/laravel-madeline-proto"
-    }
-],
     "autoload": {
         "psr-4": {
             "Hu\\MadelineProto\\": "src/"
